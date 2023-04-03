@@ -15,7 +15,7 @@ Vamos relembrar um pouco o que foi feito até agora? Leia novamente a documenta�
 # Exercício 2
 Viu alguma diferença em como utilizar os métodos `GET`, `POST` e `DELETE` da API?
 # Exercício 3
-Vamos então deixar o nosso projeto mais robusto e adicionar uma nova funcionalidade: procurar por uma playlist. Adicione esse novo `endpoint` no seu código utilizando a sintaxe do `async` e `await`. Lembre-se do tratamento de erros.
+Vamos então deixar o nosso projeto mais robusto e adicionar uma nova funcionalidade: procurar por uma playlist. Adicione esse novo `endpoint` no seu código utilizando a sintaxe do `async` e `await`. Lembre-se do tratamento de erros e das constantes.
 # Exercício 4
 Por fim, vamos agora adicionar a funcionalidade de deletar uma playlist. Caso você tenha alguma dificuldade nas requisições, pode conferir como foi utilizado no exercício passado.
 ## Informações úteis sobre o assunto
